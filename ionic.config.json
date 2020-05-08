@@ -1,0 +1,8 @@
+{
+  "name": "OmiPali",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "02c60665"
+}
